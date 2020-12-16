@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormularioAmarillo</string>
+    <string name="nombre">Nombre</string>
+    <string name="producto_extranjero">Producto extranjero</string>
+    <string name="producto_nacional">Producto Nacional</string>
+    <string name="mostrar_nacionalidad">mostrar Nacionalidad</string>
+    <string name="acepto_los_t_rminos">Acepto los términos</string>
+</resources>
